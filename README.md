@@ -16,4 +16,4 @@ Must-read Papers on Large Language Model.
 
 ### ChatGPT
 
-1. [[GPT-1](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)] **Improving Language Understanding by Generative Pre-Training** 
+1. [GPT-1] **Improving Language Understanding by Generative Pre-Training** [Paper](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf) 
