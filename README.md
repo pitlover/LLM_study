@@ -10,7 +10,7 @@ Must-read Papers on Large Language Model.
 
 ## 🔔 News
 
-- **[2025-01]** We start our *world-wide* LLM study project.
+- **[2025-02]** We start our *world-wide* LLM study project.
 
 ## 🌄 Papers
 
