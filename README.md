@@ -1,8 +1,8 @@
-## LLM_study
+## LLM Study
 
-[![Awesome](https://awesome.re/badge.svg)](https://github.com/zjunlp/LLMAgentPapers) 
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/pitlover/LLM_study) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-![](https://img.shields.io/github/last-commit/zjunlp/LLMAgentPapers?color=green) 
+
 
 Must-read Papers on Large Language Model.
 
@@ -10,7 +10,7 @@ Must-read Papers on Large Language Model.
 
 ## 🔔 News
 
-- **[2025-01]** We start our world-wide *LLM Study* project.
+- **[2025-01]** We start our *world-wide* LLM study project.
 
 ## 🌄 Papers
 
