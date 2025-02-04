@@ -17,4 +17,5 @@ Must-read Papers on Large Language Model.
 ### ChatGPT
 
 1. [GPT-1] **Improving Language Understanding by Generative Pre-Training** [[Paper](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)]
+  - KOR review :  https://aipaper-review.tistory.com/1
 2. [GPT-2] **Language Models are Unsupervised Multitask Learners** [[Paper](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)]
