@@ -30,5 +30,5 @@ Must-read Papers on Large Language Model.
   - KOR review : https://aipaper-review.tistory.com/9
 7. [LLaVA-NeXT-Interleave] **LLaVA-NeXT-Interleave: Tackling Multi-image, Video, and 3D in Large Multimodal Models** [[Paper](https://arxiv.org/abs/2407.07895)]
   - KOR review : https://aipaper-review.tistory.com/10
-8. [LoRA] **LoRA : Low-Rank Adaptation of Large Language Models** [[Paper]((https://arxiv.org/abs/2106.09685))]
+8. [LoRA] **LoRA : Low-Rank Adaptation of Large Language Models** [[Paper](https://arxiv.org/abs/2106.09685)]
   - KOR review : https://aipaper-review.tistory.com/11
