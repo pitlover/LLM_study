@@ -23,4 +23,12 @@ Must-read Papers on Large Language Model.
 3. [GPT-3] **Language Models are Few-Shot Learners** [[Paper](https://arxiv.org/abs/2005.14165)]
   - KOR review : https://aipaper-review.tistory.com/4
 4. [GPT-4] **GPT-4 Technical Report** [[Paper](https://arxiv.org/abs/2303.08774)]
-  - KOR review : https://aipaper-review.tistory.com/5 
+  - KOR review : https://aipaper-review.tistory.com/5
+5. [LLaVA] **LLaVA : Visual Instruction Tuning** [[Paper](https://arxiv.org/abs/2304.08485)]
+  - KOR review : https://aipaper-review.tistory.com/6
+6. [LLaVA 1.5] **Improved Baselines with Visual Instruction Tuning** [[Paper](https://arxiv.org/abs/2310.03744)]
+  - KOR review : https://aipaper-review.tistory.com/9
+7. [LLaVA-NeXT-Interleave] **LLaVA-NeXT-Interleave: Tackling Multi-image, Video, and 3D in Large Multimodal Models** [[Paper](https://arxiv.org/abs/2407.07895)]
+  - KOR review : https://aipaper-review.tistory.com/10
+8. [LoRA] **LoRA : Low-Rank Adaptation of Large Language Models** [[Paper]((https://arxiv.org/abs/2106.09685))]
+  - KOR review : https://aipaper-review.tistory.com/11
